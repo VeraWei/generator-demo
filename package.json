@@ -1,0 +1,29 @@
+{
+  "name": "generator-demo",
+  "version": "1.0.0",
+  "description": "Vera's demo",
+  "files":[
+    "app",
+    "router"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VeraWei/generator-demo.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VeraWei/generator-demo/issues"
+  },
+  "homepage": "https://github.com/VeraWei/generator-demo",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
